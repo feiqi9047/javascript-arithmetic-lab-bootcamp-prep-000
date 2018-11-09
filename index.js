@@ -1,7 +1,7 @@
 var number = 10
-function add5(){
+function add(){
   number +=5
 }
 
-add5()
+add()
 console.log(number)
