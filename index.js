@@ -33,11 +33,11 @@ function makeInt(a){
    return parseInt(a,10)
 }
 
-function PreserveDecimal(a){
+function preserveDecimal(a){
    return parseFloat(a)
 }
 
-function PreserveDecimal(a){
+function preserveDecimal(a){
    return parseFloat("and")
 }
 
