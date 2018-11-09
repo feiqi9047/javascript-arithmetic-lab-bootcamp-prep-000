@@ -1,8 +1,9 @@
 var a=10
 var b=5
+var number = a+b
 
 function add(){
-  return number = a+b
+  return number
 }
 
 add()
