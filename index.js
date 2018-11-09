@@ -6,4 +6,4 @@ function add(){
 }
 
 add()
-console.log(a+b)
+console.log(number)
