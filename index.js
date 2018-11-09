@@ -1,6 +1,8 @@
-var number = 10
+var a=10
+var b=5
+
 function add(){
-  number +=5
+  a+b
 }
 
 add()
