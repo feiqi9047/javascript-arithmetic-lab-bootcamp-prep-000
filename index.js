@@ -1,2 +1,7 @@
+var number = 5
+function add(){
+  return number +=5
+}
 
-1+80
+add()
+console.log(number)
