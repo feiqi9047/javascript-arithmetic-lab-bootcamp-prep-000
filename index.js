@@ -38,6 +38,6 @@ function makeInt(a){
 }
 
 function makeInt(a){
-   return parseFloat(a)
+   return parseFloat("and")
 }
 
