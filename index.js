@@ -1,6 +1,6 @@
 var a=5;
 var b=10;
-var n=2.222;
+var c=2.222;
 
 function add(a,b){
    return a+b
@@ -34,7 +34,7 @@ function makeInt(a){
    return parseInt(a,10)
 }
 
-function preserveDecimal(n){
+function preserveDecimal(c){
    return parseFloat('n')
 }
 
