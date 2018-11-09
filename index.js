@@ -25,8 +25,8 @@ function dec(a){
    return a-1
 }
 
-function makeInt(a){
-   return makeInt(a.toString())).toEqual(a)
+function makeInt(a.toString()){
+   return a
 }
 
 
