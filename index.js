@@ -26,7 +26,7 @@ function dec(a){
 }
 
 function makeInt(a){
-   return parseInt('a')
+   return makeInt(a.toString())).toEqual(a)
 }
 
 
