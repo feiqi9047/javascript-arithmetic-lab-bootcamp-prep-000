@@ -1,4 +1,6 @@
 var a=5
 var b=10
 
-add()
+function add(){
+  return a+b
+}
